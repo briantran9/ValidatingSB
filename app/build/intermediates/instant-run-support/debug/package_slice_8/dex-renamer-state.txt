@@ -1,0 +1,4 @@
+#Fri Mar 09 00:31:46 PST 2018
+base.0=C\:\\Users\\pc\\Pictures\\School\\Senior Project\\App\\new app\\ValidatingSB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
